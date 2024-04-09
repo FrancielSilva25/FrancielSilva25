@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudando de Front-end<br>Procuro aprender bastante sobre a área<br>Estou a procura de emprego na área
+Sou estudante de Front-end<br>Procuro aprender bastante sobre a área<br>Estou a procura de emprego na área
 
 
 ## 🌐 Socials:
